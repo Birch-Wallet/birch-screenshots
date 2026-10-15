@@ -1,0 +1,10 @@
+.DS_Store
+
+# App Store upload sets, kept locally only
+appstore/
+appstore-duo/
+
+# Scratch folders the screenshots lane creates while framing
+_frameit/
+_13mini_bare/
+_ipad_bare/
