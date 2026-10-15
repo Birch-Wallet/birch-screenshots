@@ -33,4 +33,4 @@ A full run replaces `dark/` and `light/`. Commit after the whole run finishes, s
 ## Who uses them
 
 - The App Store listing.
-- [birch-design](https://github.com/Birch-Wallet/birch-design): **Overlay app** lays the iPhone 17 Pro captures over the rebuilt screens, and `tools/build-assets.py` cuts QR codes and the status bar from them. The design site on GitHub Pages copies the iPhone 17 Pro captures when it deploys.
+- [birch-design](https://github.com/Birch-Wallet/birch-design): **Overlay Screenshot** lays the iPhone 17 Pro captures over the rebuilt screens, and `tools/build-assets.py` cuts QR codes and the status bar from them. The design site on GitHub Pages copies the iPhone 17 Pro captures when it deploys.
